@@ -1,0 +1,13 @@
+# Pacote do projeto "Receita-Montar" para a IA
+# 0 arquivos. Cada um começa com ===== ARQUIVO: caminho =====
+
+## Estrutura
+├── js/
+│   └── 40-ferramentas.js
+├── montar.py
+├── PEDIDO-PARA-A-IA.txt
+├── PLANO.md
+├── RECEITA-MONTAR.md
+├── receita.json
+└── RECEITA.md
+

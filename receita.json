@@ -1,0 +1,14 @@
+[
+  {
+    "fonte": "cirurgiao.html",
+    "id": "cirurgiao", "nome": "Cirurgião", "icone": "🩻",
+    "desc": "Marcas do Replit, bugs, dependências, chaves",
+    "abrir": "carregarFiles([f])",
+    "relatorio": "relatorio(itensFiltrados())"
+  },
+  {
+    "fonte": "limpador-processos.html",
+    "id": "limpador", "nome": "Limpador de Processos", "icone": "🧹",
+    "desc": "Limpa, separa e resume processo com IA"
+  }
+]

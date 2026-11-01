@@ -1,0 +1,6 @@
+Leia o arquivo RECEITA-MONTAR.md deste projeto e siga a receita.
+Quero juntar estas ferramentas HTML dentro do app [NOME DO APP]: [lista dos arquivos .html].
+1) Me diga qual jeito usar (A = pasta de HTMLs, B = montar com Python) e por quê, em português simples.
+2) Faça você mesmo: crie o receita.json, descubra a função de importar de cada ferramenta, e me dê o comando para rodar no Terminal (python montar.py).
+3) Depois me diga como testar, um passo de cada vez.
+Não mexa nos HTML originais. Não coloque chaves nem senhas nos arquivos.
